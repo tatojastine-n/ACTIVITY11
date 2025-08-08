@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\PINCodeRetrySystem\bin\Debug\PINCodeRetrySystem.exe.config
+C:\Users\HP\source\repos\PINCodeRetrySystem\bin\Debug\PINCodeRetrySystem.exe
+C:\Users\HP\source\repos\PINCodeRetrySystem\bin\Debug\PINCodeRetrySystem.pdb
+C:\Users\HP\source\repos\PINCodeRetrySystem\obj\Debug\PINCodeRetrySystem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PINCodeRetrySystem\obj\Debug\PINCodeRetrySystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PINCodeRetrySystem\obj\Debug\PINCodeRetrySystem.exe
+C:\Users\HP\source\repos\PINCodeRetrySystem\obj\Debug\PINCodeRetrySystem.pdb
